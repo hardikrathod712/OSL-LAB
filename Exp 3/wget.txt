@@ -1,0 +1,4 @@
+wget https://www.geeksforgeeks.org/wget-command-linuxunix/
+
+wget --mirror -p --convert-links -P ./Downloads https://www.geeksforgeeks.org/wget-command-linuxunix/
+
